@@ -1,4 +1,4 @@
-# TrustGuard-public
+# TrustGuard-public | AcademiesHacks Winner
 ---
 
 # TrustGuard
