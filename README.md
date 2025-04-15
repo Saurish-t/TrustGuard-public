@@ -2,7 +2,7 @@
 ---
 
 # TrustGuard
-For project privacy keeping the github https://github.com/Saurish-t/Lie-detection private
+For project privacy keeping the github https://github.com/Saurish-t/Lie-detection private <br>
 **TrustGuard** is an AI-powered deception detection platform that uses a multimodal fusion of audio and visual data to analyze whether a person is lying. Built to enhance digital communication integrity, TrustGuard can be used in interviews, virtual meetings, or online safety applications where trust is critical.
 
 ## Problem
